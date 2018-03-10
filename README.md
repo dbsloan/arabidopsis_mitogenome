@@ -3,7 +3,7 @@
 
 ## Overview:
 
-The Perl scripts included in this repository were used to validate a new assembly of the Arabidopsis thaliana Col-0 mitochondrial genome. A related manuscript is currently [available on bioRxiv](https://www.biorxiv.org/content/early/2018/01/18/249086) and has been submitted for formal publication. The scripts require the [sloan.pm Perl module](https://github.com/dbsloan/perl_modules). None of the scripts require BioPerl, but some of the (unused) functions in the sloan.pm module do. If you don't have BioPerl installed, simply delete those functions from the module before attempting to run. Example inputs for some of the scripts are provided in the input_files subdirectory. Scripts have been run on Mac OSX 10.13 and/or Linux CentOS 6 operating systems.
+The Perl scripts included in this repository were used to validate a new assembly of the Arabidopsis thaliana Col-0 mitochondrial genome. A related manuscript was originally made [available on bioRxiv](https://www.biorxiv.org/content/early/2018/01/18/249086) and later published in final form [(Sloan et al. 2018 Plant Cell)](http://www.plantcell.org/content/early/2018/03/08/tpc.18.00024). The scripts require the [sloan.pm Perl module](https://github.com/dbsloan/perl_modules). None of the scripts require BioPerl, but some of the (unused) functions in the sloan.pm module do. If you don't have BioPerl installed, simply delete those functions from the module before attempting to run. Example inputs for some of the scripts are provided in the input_files subdirectory. Scripts have been run on Mac OSX 10.13 and/or Linux CentOS 6 operating systems.
 
 ## summarize_variants.pl
 
